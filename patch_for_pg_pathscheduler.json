@@ -9,9 +9,9 @@
       "opb": "Femur",
       "opc": "Tibia",
       "opd": "Fibula",
-      "cop": 1,
+      "cop": 2, 
       "choice_type": "single",
-      "explanation": "The femur is the longest, heaviest, and strongest human bone.",
+      "explanation": "The femur (Option B) is the longest and strongest human bone.",
       "topic": "Osteology"
     },
     {
@@ -22,22 +22,22 @@
       "opb": "Purkinje fibers",
       "opc": "SA node",
       "opd": "Bundle of His",
-      "cop": 2,
+      "cop": 3,
       "choice_type": "single",
-      "explanation": "The sinoatrial (SA) node is known as the natural pacemaker of the heart.",
+      "explanation": "The SA node (Option C) is the natural pacemaker.",
       "topic": "Cardiovascular"
     },
     {
       "id": "PATCH_003",
       "subject": "Biochemistry",
-      "question": "Which enzyme is responsible for the unwinding of the DNA double helix during replication?",
+      "question": "Which enzyme is responsible for the unwinding of the DNA double helix?",
       "opa": "DNA Polymerase",
       "opb": "DNA Ligase",
       "opc": "Helicase",
       "opd": "Primase",
-      "cop": 2,
+      "cop": 3,
       "choice_type": "single",
-      "explanation": "Helicase is the enzyme that 'unzips' the DNA double helix by breaking hydrogen bonds.",
+      "explanation": "Helicase (Option C) unzips the DNA.",
       "topic": "DNA Replication"
     }
   ]
