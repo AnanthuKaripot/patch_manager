@@ -1,6 +1,12 @@
 for managing patch
 Go to Firebase Console -> Remote Config -> Add Parameter (or "Create Configuration").
 
+Host this .json file somewhere (GitHub Raw, Firebase Storage, S3).
+Go to Firebase Console -> Remote Config.
+Update flashcard_patch_url with the new link.
+Update latest_flashcard_version to a higher number (e.g., 1.1).
+Publish.
+________________________________________________________________________________
 1. The App Version (To trigger updates)
 Parameter key: latest_app_version
 Data type: String
@@ -16,18 +22,19 @@ Parameter key: update_store_url
 Data type: String
 Default value: https://play.google.com/store/apps/details?id=com.example.neetpgApp
 Usage: Paste the actual link to your app on the Play Store here.
-4. Announcement Message (The popup text)
+__________________________________________________________________________________
+5. Announcement Message (The popup text)
 Parameter key: general_announcement
 Data type: String
 Default value: (Leave empty)
 Usage: Type your message here. For example: We will be performing server maintenance tonight from 2 AM to 4 AM. or New Pathology functionality added!
-5. Announcement Title (The popup header)
+6. Announcement Title (The popup header)
 Parameter key: announcement_title
 Data type: String
 Default value: 
 Announcement
 Usage: The bold title at the top of the dialog. You can change it to Maintenance Alert or New Feature.
-6. Announcement ID (To ensure it shows only once)
+7. Announcement ID (To ensure it shows only once)
 Parameter key: announcement_id
 Data type: String
 Default value: (Leave empty)
