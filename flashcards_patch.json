@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1001,
+    "subject": "Anatomy",
+    "question": "What is the nerve supply of the Deltoid muscle?",
+    "answer": "Axillary nerve",
+    "explanation": "The deltoid muscle is supplied by the axillary nerve (C5, C6).",
+    "highYieldTag": "Upper Limb",
+    "image": null
+  },
+  {
+    "id": 1002,
+    "subject": "Physiology",
+    "question": "Which phase of cardiac cycle has highest volume consumption?",
+    "answer": "Rapid filling phase",
+    "explanation": "Rapid ventricular filling accounts for 70% of filling.",
+    "highYieldTag": null,
+    "image": "https://example.com/image.png"
+  }
+]
