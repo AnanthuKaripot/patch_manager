@@ -1,0 +1,18 @@
+{
+  "deletions": [],
+  "additions": [],
+  "updates": [
+    {
+      "id": "81b0686c-6a52-4aa2-b77c-542c303e5e16",
+      "question": "The following MRI head shows",
+      "opa": "Starry sky appearance",
+      "opb": "Soap bubble appearance",
+      "opc": "Dense MCA sign",
+      "opd": "Ring enhancing lesion",
+      "explanation": "**Concept:**\n\nThe 'soap bubble appearance' on MRI refers to a specific pattern seen in cases of diffuse axonal injury (DAI). It's characterized by multiple, small, punctate areas of hyperintensity on diffusion-weighted imaging (DWI) and hypointensity on apparent diffusion coefficient (ADC) maps, resembling bubbles within the brain parenchyma. This reflects widespread shearing of axons.\n\n**Reasoning:**\nThe question states the MRI head *shows* something, implying a visual finding. The 'soap bubble appearance' is a distinct radiological finding consistent with DAI, often seen after traumatic brain injury. Without the image, we assume the MRI demonstrates this characteristic pattern. Therefore, option B is the most likely correct answer.\n\n**Why wrong:**\n\nA. 'Starry sky appearance' is typically associated with craniopharyngioma, showing calcifications that resemble stars. This doesn't fit the general description of an MRI head without further clinical context.\n\nC. 'Dense MCA sign' refers to a hyperdense middle cerebral artery on non-contrast CT scan, indicating an acute thrombus. This is a CT finding, not typically described on MRI, and doesn't align with a general 'MRI head shows' question.\n\nD. 'Ring enhancing lesion' suggests a mass lesion with surrounding edema, often seen in abscesses, tumors (like glioblastoma), or resolving inflammation. This is a specific finding, and without further details, is less likely than a diffuse finding like DAI.\n\n**Key Takeaway:**\n\nRecognize the 'soap bubble appearance' as a key MRI finding for diffuse axonal injury, commonly resulting from traumatic brain injury. Understand the other options represent distinct pathologies with different imaging characteristics.\n\n**Mnemonic:**\n\n'Soap bubbles' = Shearing of axons = DAI",
+      "image_url": "https://cdn.jsdelivr.net/gh/AnanthuKaripot/neet-pg-ibq-assets/ibq_images/512px-Diffuse_axonal_injury-_cMRT_nach_3_Tagen.jpg",
+      "image_credit": "Hellerhoff, CC BY-SA 3.0 ",
+      "cop": 2
+    }
+  ]
+}
