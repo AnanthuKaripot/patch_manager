@@ -1,0 +1,28 @@
+{
+  "deletions": [],
+  "additions": [
+    {
+      "uuid": "69689aca-3051-4baf-b6d2-d31d4485a014",
+      "question": "A patient presents with acute, painful visual loss accompanied by a relative afferent pupillary defect (RAPD). Ophthalmoscopic evaluation reveals a completely normal optic disc with distinct margins and normal retinal architecture. What is the primary diagnosis?",
+      "opa": "Anterior ischemic optic neuropathy (AION)",
+      "opb": "Central retinal artery occlusion (CRAO)",
+      "opc": "Retrobulbar neuritis",
+      "opd": "Papilledema",
+      "cop": 3,
+      "difficulty_id": 2,
+      "is_clinical": 0,
+      "subject_id": 12,
+      "topic_id": 87,
+      "subtopic_id": 333,
+      "ai_reclassified": 0,
+      "ai_search_tags": "Retrobulbar neuritis, Acute painful visual loss, Relative afferent pupillary defect, RAPD, Normal optic disc, Normal retinal architecture, Anterior ischemic optic neuropathy, AION, Central retinal artery occlusion, CRAO, Papilledema, Ophthalmoscopy",
+      "exp_concept": "Retrobulbar neuritis is an inflammatory condition affecting the optic nerve *behind* the eyeball. It is characterized by acute, often painful, monocular visual loss and a relative afferent pupillary defect (RAPD).",
+      "exp_reasoning": "- *   **Acute, painful visual loss:** This symptom points towards an inflammatory or ischemic process affecting the optic nerve.\n- *   **Relative afferent pupillary defect (RAPD):** This is a critical sign indicating unilateral optic nerve dysfunction, meaning one optic nerve is not transmitting light signals effectively.\n- *   **Completely normal optic disc with distinct margins and normal retinal architecture:** This is the most crucial diagnostic clue. It signifies that the pathology causing the visual loss and RAPD is located *posterior* to the optic disc, making the disc appear normal on ophthalmoscopic examination. This classic presentation is often described as 'the patient sees nothing, and the doctor sees nothing'.\n- *   **Combining these findings:** The triad of acute painful visual loss, RAPD, and a normal-appearing optic disc on fundoscopy is pathognomonic for retrobulbar neuritis.",
+      "exp_distractors": "**Option A: Anterior ischemic optic neuropathy (AION):** AION typically presents with acute, usually painless, visual loss and an RAPD. However, it is characterized by *optic disc edema* (swelling) in the acute phase, which would be visible on ophthalmoscopy, contradicting the 'normal optic disc' finding.\n**Option B: Central retinal artery occlusion (CRAO):** CRAO causes sudden, severe, painless visual loss and an RAPD. Fundoscopic examination in CRAO reveals characteristic findings such as a 'cherry-red spot' in the macula, retinal whitening, and attenuated arterioles, which are not consistent with 'normal retinal architecture' and 'normal optic disc'.\n**Option D: Papilledema:** Papilledema is optic disc swelling due to increased intracranial pressure. While it can cause visual symptoms, it is defined by *visible optic disc edema* (blurred margins, elevated disc, venous engorgement), which directly contradicts the 'completely normal optic disc' described in the question.",
+      "exp_key_takeaway": "The combination of acute, painful visual loss, a relative afferent pupillary defect (RAPD), and a *normal-appearing optic disc* on fundoscopy is the hallmark presentation of retrobulbar neuritis. This indicates the optic nerve pathology is posterior to the globe.",
+      "year": 2026,
+      "exam_id": 2
+    }
+  ],
+  "updates": []
+}
