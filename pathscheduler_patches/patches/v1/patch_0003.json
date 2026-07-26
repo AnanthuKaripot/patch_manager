@@ -1,0 +1,28 @@
+{
+  "deletions": [],
+  "additions": [
+    {
+      "uuid": "32c37cb4-e7f8-4634-b713-f70731be70c1",
+      "question": "In a healthy young child, what is the expected maximum amplitude of accommodation measured in diopters?",
+      "opa": "5D",
+      "opb": "14D",
+      "opc": "2D",
+      "opd": "25D",
+      "cop": 2,
+      "difficulty_id": 2,
+      "is_clinical": 0,
+      "subject_id": 12,
+      "topic_id": 83,
+      "subtopic_id": 320,
+      "ai_reclassified": 0,
+      "ai_search_tags": "Accommodation, Amplitude of Accommodation, Diopters, Child, Pediatric, Maximum",
+      "exp_concept": "Accommodation is the process by which the eye increases its optical power to maintain a clear image on the retina as an object moves closer. This is achieved by the contraction of the ciliary muscle, which relaxes the zonular fibers, allowing the crystalline lens to become more convex and increase its refractive power. The amplitude of accommodation refers to the maximum dioptric change the eye can achieve.",
+      "exp_reasoning": "- The amplitude of accommodation is highest in early childhood and progressively decreases with age, a phenomenon known as presbyopia.\n- In a healthy young child (typically under 10 years of age), the crystalline lens is highly elastic, and the ciliary muscle is very efficient.\n- This allows for a significant change in the lens's curvature and, consequently, a large increase in its refractive power.\n- The maximum amplitude of accommodation in a healthy young child is generally accepted to be around 14 diopters (D). This means they can focus on objects as close as approximately 7 cm (1/14 D).\n- This value gradually declines to about 10D by age 20, 5D by age 40, and less than 1D by age 60.",
+      "exp_distractors": "Option A: 5D is the typical amplitude of accommodation for an adult around 40 years old, not a healthy young child.\nOption C: 2D is a very low amplitude, characteristic of an older adult (e.g., 50-60 years old) experiencing significant presbyopia.\nOption D: 25D is physiologically impossible for human accommodation; the maximum achievable is around 14-16D in very young individuals.",
+      "exp_key_takeaway": "The amplitude of accommodation is highest in young children due to the high elasticity of the crystalline lens and efficient ciliary muscle function, typically reaching around 14 diopters.",
+      "year": 2026,
+      "exam_id": 2
+    }
+  ],
+  "updates": []
+}
