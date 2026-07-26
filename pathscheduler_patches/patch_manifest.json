@@ -16,7 +16,7 @@
       "display_version": "v6.1",
       "url": "https://raw.githubusercontent.com/AnanthuKaripot/patch_manager/main/pathscheduler_patches/patches/v1/patch_0001.json",
       "description": "Patch 1 for v1",
-      "sha256": "93567DAE15CA3D2B7EAC989EABE859A5D3F29A877E88BD9656352BB4BB8A037A",
+      "sha256": "93567DAE15CA3D2B7EAC989EABE859A5D3F29A877E88BD9656352BB4BB8A0",
       "size_bytes": 186070 ,
       "change_count": {
         "additions": 49,
