@@ -1,0 +1,29 @@
+{
+  "manifest_version": 1,
+  "current_base_version": "v1",
+  "base_versions": {
+    "v1": {
+      "app_version": "unknown",
+      "last_patch_seq": 4,
+      "is_active": true,
+      "activated_at": "2026-07-30T15:17:43Z"
+    }
+  },
+  "patches": [
+    {
+      "seq": 4,
+      "base_version": "v1",
+      "display_version": "v1.4",
+      "url": "https://raw.githubusercontent.com/AnanthuKaripot/patch_manager/main/pathscheduler_patches/patches/v1/patch_0004.json",
+      "sha256": "336316f636289413fcae594b2c0d4253f363a51b5d4a41896f65e46c314bb228",
+      "size_bytes": 29057,
+      "description": "Patch 4 for v1",
+      "change_count": {
+        "additions": 8,
+        "updates": 0,
+        "deletions": 0
+      },
+      "created_at": "2026-07-30T15:17:47Z"
+    }
+  ]
+}
