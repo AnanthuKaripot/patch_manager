@@ -4,7 +4,7 @@
   "base_versions": {
     "v1": {
       "app_version": "unknown",
-      "last_patch_seq": 4,
+      "last_patch_seq": 5,
       "is_active": true,
       "activated_at": "2026-07-30T15:17:43Z"
     }
@@ -39,6 +39,21 @@
         "deletions": 0
       },
       "created_at": "2026-08-29T15:13:49Z"
+    },
+    {
+      "seq": 5,
+      "base_version": "v1",
+      "display_version": "v1.5",
+      "url": "https://raw.githubusercontent.com/AnanthuKaripot/patch_manager/main/pathscheduler_patches/patches/v1/patch_0005.json",
+      "sha256": "471836f69001a7129f669f651ec2f6dc42919f9325e22b6b257b4b22cb83c3bc",
+      "size_bytes": 61593,
+      "description": "Patch 5 for v1",
+      "change_count": {
+        "additions": 15,
+        "updates": 5,
+        "deletions": 0
+      },
+      "created_at": "2026-09-02T11:49:16Z"
     }
   ]
 }
