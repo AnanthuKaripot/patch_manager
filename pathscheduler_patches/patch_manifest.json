@@ -4,7 +4,7 @@
   "base_versions": {
     "v1": {
       "app_version": "unknown",
-      "last_patch_seq": 8,
+      "last_patch_seq": 9,
       "is_active": true,
       "activated_at": "2026-07-30T15:17:43Z"
     }
@@ -99,6 +99,21 @@
         "deletions": 0
       },
       "created_at": "2026-10-11T10:16:57Z"
+    },
+    {
+      "seq": 9,
+      "base_version": "v1",
+      "display_version": "v1.9",
+      "url": "https://raw.githubusercontent.com/AnanthuKaripot/patch_manager/main/pathscheduler_patches/patches/v1/patch_0009.json",
+      "sha256": "1daf98804d8b397907395411930cabcf83d3aef7b914ed24b088aff626464895",
+      "size_bytes": 157300,
+      "description": "Patch 9 for v1",
+      "change_count": {
+        "additions": 0,
+        "updates": 73,
+        "deletions": 4
+      },
+      "created_at": "2026-10-24T14:03:33Z"
     }
   ]
 }
