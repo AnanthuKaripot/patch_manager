@@ -1,0 +1,35 @@
+{
+  "deletions": [
+    "09fcab34-d3d2-41f6-8746-43a053f9c06b"
+  ],
+  "additions": [],
+  "updates": [
+    {
+      "id": "ai_ibq_7dd736d5-261d-46df-8d74-3d353597815f",
+      "uuid": "ai_ibq_7dd736d5-261d-46df-8d74-3d353597815f",
+      "question": "Which of the following features best distinguishes the procedure seen in the image from a Double-J (DJ) stent?",
+      "opa": "Presence of a pigtail curl in the renal pelvis",
+      "opb": "External drainage via the skin",
+      "opc": "Placement within a dilated collecting system",
+      "opd": "Use of a flexible radiopaque catheter",
+      "cop": "2",
+      "image_url": "https://cdn.jsdelivr.net/gh/AnanthuKaripot/neet-pg-ibq-assets/qbank_images/Percutaneous_Nephrostomy_0139be.webp",
+      "image_caption": "Percutaneous_Nephrostomy_0139be.webp",
+      "image_credit": "",
+      "difficulty_id": 2,
+      "is_clinical": 0,
+      "subject_id": 19,
+      "topic_id": 146,
+      "subtopic_id": 540,
+      "ai_reclassified": 1,
+      "ai_search_tags": "Radiology, Differential Diagnosis, DJ Stent, PCN, Urinary Diversion",
+      "exp_concept": "The primary difference between a percutaneous nephrostomy (PCN) and a Double-J (DJ) stent is the route of urine diversion: PCN provides external diversion through the flank, whereas a DJ stent provides internal diversion entirely within the urinary tract.",
+      "exp_visual_analysis": "The image demonstrates a percutaneous nephrostomy (PCN) tube with its pigtail catheter coiled securely within the renal pelvis, traversing the skin and exiting the flank to connect to an external drainage system. In contrast, a DJ stent is positioned completely internally, with one pigtail in the renal pelvis and the other in the urinary bladder, without any external components.",
+      "exp_reasoning": "Percutaneous Nephrostomy (PCN) redirects urine from the kidney directly to an external collection bag via a puncture through the skin. A Double-J stent maintains patency of the ureter and directs urine internally from the kidney down to the bladder.",
+      "exp_distractors": "*   **Presence of a pigtail curl in the renal pelvis:** Both PCN and DJ stents utilize a pigtail curl in the renal pelvis to prevent accidental dislodgement and migration.\n*   **Placement within a dilated collecting system:** Both devices are commonly indicated and placed in the setting of hydronephrosis or an obstructed, dilated collecting system.\n*   **Use of a flexible radiopaque catheter:** Both PCN tubes and DJ stents are manufactured from flexible, radiopaque biomaterials to allow for fluoroscopic visualization and safe placement.",
+      "exp_key_takeaway": "PCN = External drainage via the skin; DJ Stent = Internal drainage from kidney to bladder.",
+      "ibq_id": "3765",
+      "exam_id": 1
+    }
+  ]
+}
