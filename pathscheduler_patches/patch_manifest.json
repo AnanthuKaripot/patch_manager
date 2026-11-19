@@ -4,7 +4,7 @@
   "base_versions": {
     "v1": {
       "app_version": "unknown",
-      "last_patch_seq": 9,
+      "last_patch_seq": 10,
       "is_active": true,
       "activated_at": "2026-07-30T15:17:43Z"
     }
@@ -114,6 +114,21 @@
         "deletions": 4
       },
       "created_at": "2026-10-24T14:03:33Z"
+    },
+    {
+      "seq": 10,
+      "base_version": "v1",
+      "display_version": "v1.10",
+      "url": "https://raw.githubusercontent.com/AnanthuKaripot/patch_manager/main/pathscheduler_patches/patches/v1/patch_0010.json",
+      "sha256": "86488ba9f64f21f99f3c0cc8ff2372d0200cca0a51ed803c7692640993798073",
+      "size_bytes": 105538,
+      "description": "Patch 10 for v1",
+      "change_count": {
+        "additions": 21,
+        "updates": 16,
+        "deletions": 3
+      },
+      "created_at": "2026-11-19T15:49:21Z"
     }
   ]
 }
